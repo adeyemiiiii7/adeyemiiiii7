@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Im Adeyemi, im a Fool
+### Im Adeyemi, im a computer science student.
 <!--
 **adeyemiiiii7/adeyemiiiii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- -->
 
 ## :earth_africa: Programming languages:
 
