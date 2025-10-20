@@ -1,6 +1,6 @@
 # 👋 Hi 
 
- **Software Engineer | Backend & Full-Stack Developer | AI Enthusiast**  
+ **Software Engineer |AI Enthusiast**  
  [adeyemi-dev.onrender.com](https://adeyemi-dev.onrender.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-aladesuyi/)
