@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adeyemi Odunayo Aladesuyi  
+# 👋 Hi 
 
  **Software Engineer | Backend & Full-Stack Developer | AI Enthusiast**  
  [adeyemi-dev.onrender.com](https://adeyemi-dev.onrender.com)  
