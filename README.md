@@ -47,7 +47,6 @@
 - 🤖 **Artificial Intelligence**  
 - ☁️ **Cloud Computing & DevOps**  
 - ⚙️ **Backend Architecture & API Design**  
-- 🎨 **UI/UX Collaboration with Frontend Teams**  
 - 🎶 **Music, Movies, and History**  
 
 ---
