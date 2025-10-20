@@ -62,8 +62,7 @@ Beyond code, I’m deeply interested in **AI**, exploring ways to integrate inte
 
 ---
 
-### 📊 GitHub Stats  
-![Adeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeyemiiiii7&show_icons=true&theme=tokyonight)  
+### 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeyemiiiii7&layout=compact&theme=tokyonight)
 
 ---
