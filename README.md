@@ -1,22 +1,12 @@
 # 👋 Hi, I'm Adeyemi Odunayo Aladesuyi  
 
-💻 **Software Engineer | Backend & Full-Stack Developer | AI Enthusiast**  
-🌍 [adeyemi-dev.onrender.com](https://adeyemi-dev.onrender.com)  
+ **Software Engineer | Backend & Full-Stack Developer | AI Enthusiast**  
+ [adeyemi-dev.onrender.com](https://adeyemi-dev.onrender.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-aladesuyi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adeyemiiiii7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://adeyemi-dev.onrender.com)
 [![Email](https://img.shields.io/badge/Email-aladesuyiadeyemi05%40gmail.com-red?style=flat&logo=gmail)](mailto:aladesuyiadeyemi05@gmail.com)
-
----
-
-### 👨‍💻 About Me  
-
-I’m a passionate **Software Engineer**, **AI Enthusiast**, and **Full-Stack Developer** exploring how technology can create efficient, scalable, and human-centered solutions.  
-I enjoy building reliable **backend systems**, **RESTful APIs**, and **cloud-ready applications** with modern tools like **Node.js**, **TypeScript**, **NestJS**, **PostgreSQL**, **Redis**, and **AWS**.  
-Beyond code, I’m deeply interested in **AI**, exploring ways to integrate intelligent systems into real-world applications.  
-
----
 
 ### ⚙️ Tech Stack  
 
@@ -64,11 +54,3 @@ Beyond code, I’m deeply interested in **AI**, exploring ways to integrate inte
 
 ### 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeyemiiiii7&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Let's Connect  
-💌 [aladesuyiadeyemi05@gmail.com](mailto:aladesuyiadeyemi05@gmail.com)  
-🌐 [adeyemi-dev.onrender.com](https://adeyemi-dev.onrender.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/adeyemi-aladesuyi/)  
-🐙 [GitHub](https://github.com/adeyemiiiii7)
