@@ -43,13 +43,5 @@
 
 ---
 
-### 🧠 Interests
-- 🤖 **Artificial Intelligence**  
-- ☁️ **Cloud Computing & DevOps**  
-- ⚙️ **Backend Architecture & API Design**  
-- 🎶 **Music, Movies, and History**  
-
----
-
 ### 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeyemiiiii7&layout=compact&theme=tokyonight)
